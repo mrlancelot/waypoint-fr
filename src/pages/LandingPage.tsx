@@ -158,6 +158,8 @@ export const LandingPage: React.FC = () => {
                   <option>2 adults</option>
                   <option>3 adults</option>
                   <option>4 adults</option>
+                  <option>5 adults</option>
+                  <option>6 adults</option>
                 </select>
               </div>
               <div className="md:col-span-1">
